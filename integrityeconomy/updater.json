@@ -1,0 +1,11 @@
+{
+    "name": "IntegrityEconomy",
+    "authors": ["ItzFrancy", "IntegrityEconomy's contributors"],
+
+    "main-link": "https://modrinth.com/project/integrityeconomy/",
+    "version": "v0.2",
+
+    "description": [
+        "Minor patch (new update-api)"
+    ]
+}
