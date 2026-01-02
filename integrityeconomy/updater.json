@@ -3,9 +3,12 @@
     "authors": ["ItzFrancy", "IntegrityEconomy's contributors"],
 
     "main-link": "https://modrinth.com/project/integrityeconomy/",
-    "version": "v0.2",
+    "version": "v0.3",
 
     "description": [
-        "Minor patch (new update-api)"
+        "Dump version v0.3",
+        "Updates messages",
+        "Fixed \"The database file is locked\" bug",
+        "Added offline player support"
     ]
 }
