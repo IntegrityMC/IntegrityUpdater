@@ -3,12 +3,11 @@
     "authors": ["ItzFrancy", "IntegrityEconomy's contributors"],
 
     "main-link": "https://modrinth.com/project/integrityeconomy/",
-    "version": "v0.3",
+    "version": "v0.4",
 
     "description": [
-        "Dump version v0.3",
-        "Updates messages",
-        "Fixed \"The database file is locked\" bug",
-        "Added offline player support"
+        "Dump version v0.4",
+        "Added BalTopCommand",
+        "Added set subcommand for /eco"
     ]
 }
