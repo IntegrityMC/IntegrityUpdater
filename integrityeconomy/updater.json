@@ -3,11 +3,11 @@
     "authors": ["ItzFrancy", "IntegrityEconomy's contributors"],
 
     "main-link": "https://modrinth.com/project/integrityeconomy/",
-    "version": "v0.4",
+    "version": "v0.5",
 
     "description": [
-        "Dump version v0.4",
-        "Added BalTopCommand",
-        "Added set subcommand for /eco"
+        "Dump version v0.5",
+        "Added currency placeholder",
+        "Added decimal places"
     ]
 }
