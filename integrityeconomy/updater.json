@@ -3,11 +3,10 @@
     "authors": ["ItzFrancy", "IntegrityEconomy's contributors"],
 
     "main-link": "https://modrinth.com/project/integrityeconomy/",
-    "version": "v0.5",
+    "version": "v0.6",
 
     "description": [
-        "Dump version v0.5",
-        "Added currency placeholder",
-        "Added decimal places"
+        "Dump version v0.6",
+        "Added offline player support for the /eco command"
     ]
 }
