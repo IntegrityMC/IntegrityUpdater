@@ -3,10 +3,15 @@
     "authors": ["ItzFrancy", "IntegrityEconomy's contributors"],
 
     "main-link": "https://modrinth.com/project/integrityeconomy/",
-    "version": "v0.6",
+    "version": "v0.7",
 
     "description": [
-        "Dump version v0.6",
-        "Added offline player support for the /eco command"
+        "Dump version v0.7",
+        "Optimized formatAmount",
+        "GPL header",
+        "Corrected currencySingular",
+        "FastPay function - BETA",
+        "Re-licensing to MPL",
+        "Added contributor clause"
     ]
 }
