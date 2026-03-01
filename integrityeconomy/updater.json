@@ -3,15 +3,9 @@
     "authors": ["ItzFrancy", "IntegrityEconomy's contributors"],
 
     "main-link": "https://modrinth.com/project/integrityeconomy/",
-    "version": "v0.7",
+    "version": "v0.8",
 
     "description": [
-        "Dump version v0.7",
-        "Optimized formatAmount",
-        "MPL header",
-        "Corrected currencySingular",
-        "FastPay function - BETA",
-        "Re-licensing to MPL",
-        "Added contributor clause"
+        "You can now disable commands in config.yml"
     ]
 }
